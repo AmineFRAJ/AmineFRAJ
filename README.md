@@ -2,10 +2,10 @@
 <h3 align="center">FS Web Developer</h3>
 
 
-<img align="right" alt="coding" width="350" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
+
 - 💬 About me :</br>
 I completed my Master’s degree in International Business and Corporate Development from CNAM Paris. With a growing interest in technology, I transitioned into the tech world. I started by obtaining an ISTQB certification in software testing, which paved the way for my career as a full-stack web developer.**
-
+<img align="center" alt="coding" width="950" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-amine-fraj-544111210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-amine-fraj-544111210/" height="30" width="40" /></a>
